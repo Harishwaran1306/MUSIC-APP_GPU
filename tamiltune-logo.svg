@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" fill="none">
+ <defs><linearGradient id="g" x1="8" y1="10" x2="58" y2="55" gradientUnits="userSpaceOnUse"><stop stop-color="#8DAF91"/><stop offset=".55" stop-color="#254D3B"/><stop offset="1" stop-color="#18372B"/></linearGradient></defs>
+ <g transform="translate(3 4)"><path d="M48 17C58 27 56 42 45 50C33 59 16 53 12 40C8 27 17 13 30 12C38 11 45 15 49 22C54 31 48 40 39 42C30 44 22 38 23 30C24 24 29 21 35 22" stroke="url(#g)" stroke-width="4.2" stroke-linecap="round"/><path d="M11 34H17L21 26L26 42L31 19L36 45L41 29L45 35H52" stroke="#254D3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M38 10C42 2 53 4 56 10C51 17 43 18 38 10Z" fill="#8DAF91" stroke="#254D3B" stroke-width="1.4"/><path d="M39 11L51 9" stroke="#254D3B" stroke-width="1.2" stroke-linecap="round"/><circle cx="17" cy="48" r="2.2" fill="#C6A15B"/></g>
+ <text x="76" y="43" fill="#254D3B" font-family="Georgia,serif" font-size="30" font-weight="700" letter-spacing="-1.1">Tamil<tspan fill="#C6A15B">Tune</tspan></text>
+ <text x="78" y="60" fill="#69766B" font-family="Arial,sans-serif" font-size="8.5" letter-spacing="1.1">WHERE NATURE MEETS MUSIC</text>
+</svg>
